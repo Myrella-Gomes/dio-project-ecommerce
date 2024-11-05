@@ -1,2 +1,2 @@
 # dio-project-ecommerce
-Projeto realizado visando o refinamento da modelagem de dados
+Projeto realizado visando o refinamento do modelo lógico de vendas e-commerce
